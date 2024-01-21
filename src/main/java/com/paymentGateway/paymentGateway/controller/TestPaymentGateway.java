@@ -1,4 +1,5 @@
 package com.paymentGateway.paymentGateway.controller;
 
-public class TestPaymentGateway {
+public class TestPaymentGateway
+{
 }
